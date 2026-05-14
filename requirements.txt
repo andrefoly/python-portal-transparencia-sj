@@ -1,6 +1,6 @@
 streamlit
 pandas
-plotly.express
+plotly
 numpy
 datetime
-sklearn.linear_model
+sklearn
