@@ -1,0 +1,6 @@
+streamlit
+pandas
+plotly.express
+numpy
+datetime
+sklearn.linear_model
